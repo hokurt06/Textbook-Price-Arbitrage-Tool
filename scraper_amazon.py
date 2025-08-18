@@ -118,6 +118,5 @@ if __name__ == "__main__":
     "9781284080193",  # Medical Law and Ethics
 ]
 
-
     for isbn in isbn_list:
         get_amazon_price(isbn)
